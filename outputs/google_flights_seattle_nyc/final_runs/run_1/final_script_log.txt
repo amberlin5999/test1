@@ -1,0 +1,10 @@
+step 1 action: opened Google Flights homepage
+step 2 action: set origin to Seattle (value='Seattle')
+step 3 action: set destination to New York (value='New York')
+step 4 action: set departure date to Aug 15, 2026 (value='Sat, Aug 15')
+step 5 action: set ticket type to One way
+step 6 action: dismissed price calendar dialog
+step 6 action: clicked Search button
+step 7 action: Cheapest flight on Aug 15, 2026 from Seattle to New York: NT$5,712
+
+FINAL_RESPONSE: Cheapest flight on Aug 15, 2026 from Seattle to New York: NT$5,712
