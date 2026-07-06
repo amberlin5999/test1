@@ -1,16 +1,10 @@
 [project]
-name = "2026-06-17-playwirght"
+name = "lesson5"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "jupyter>=1.1.1",
-    "jupyterlab>=4.6.0",
     "lab>=8.10",
-]
-
-[tool.uv.workspace]
-members = [
-    "lesson5",
 ]
